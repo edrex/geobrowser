@@ -1,0 +1,4 @@
+
+
+  * On scroll, don't clear old features (resets selection). Instead, merge based on id.
+  * Refactor alot (or port to another codebase) 
